@@ -1,4 +1,4 @@
-# OOP
+# Object Oriented Programming Concept (OOP)
 
 In this project, I explored the concept of Object Oriented Programming concept using C++.
 

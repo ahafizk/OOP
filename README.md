@@ -9,12 +9,12 @@ Supported operations add two numbers (Interger or integer and fraction or fracti
 
 
 
-Compile:
+```Compile:
 $cmake -H. -Bbuild
 $make -C ./build
 Run:
 $cd build
 $./math_proj
 
-
+```
 

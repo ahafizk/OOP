@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/math_proj.dir/main.cpp.o CMakeFiles/math_proj.dir/integer.cpp.o CMakeFiles/math_proj.dir/number.cpp.o CMakeFiles/math_proj.dir/util.cpp.o CMakeFiles/math_proj.dir/fraction.cpp.o  -o math_proj -rdynamic 
